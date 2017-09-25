@@ -1,0 +1,6 @@
+1. Instalar Hibernate
+2. Instalar Postgres
+3. Restaurar la bd desde el script en la carpeta recursos
+4. Agregar driver jdbc postgres
+5. Restaurar proyecto desde netbeans
+6. Ejecutar y probar... 
